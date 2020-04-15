@@ -1,1 +1,12 @@
 @charset "utf-8";
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(../images/bg_header.png);
+	background-repeat: repeat-x;
+	color: #333333;
+	font-family: "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 87.5%;
+	line-height: 1.5em;
+}
